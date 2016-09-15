@@ -1,0 +1,9 @@
+
+Patrice Godefroid is a Principal Researcher at Microsoft Research.  He
+received a B.S. degree in Electrical Engineering (Computer Science
+elective) and a Ph.D. degree in Computer Science from the University
+of Liege, Belgium, in 1989 and 1994 respectively.  From 1994 to 2006,
+he worked at Bell Laboratories (part of Lucent Technologies), where he
+was promoted to "distinguished member of technical staff" in 2001. His
+research interests include program (mostly software) specification,
+analysis, testing and verification.

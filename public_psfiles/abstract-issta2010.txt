@@ -1,0 +1,33 @@
+
+From Blackbox Fuzzing to Whitebox Fuzzing towards Verification
+
+Patrice Godefroid
+
+In this talk, I will start by presenting the SAGE project and its
+remarkable impact at Microsoft. SAGE, the first whitebox fuzzer,
+extends dynamic test generation based on symbolic execution and
+constraint solving from unit testing to whole-application security
+testing. In 2008-2009, SAGE ran non-stop on (average) 100+ machines
+for more than one year automatically ``fuzzing'' hundreds of
+applications in a dedicated lab owned by the Microsoft Windows
+security test team. As far as I know, this is the largest dedicated
+fuzzing lab in the world, and the largest computational usage ever for
+any SMT constraint solver. In the process, SAGE found many new
+security vulnerabilities (missed by blackbox fuzzing and static
+program analysis) and was credited to have found roughly one third of
+all the bugs discovered by file fuzzing during the development of
+Microsoft's Windows 7, saving millions of dollars by avoiding
+expensive security patches to nearly a billion PCs.
+
+Yet, despite this success, the eradication of security bugs is still a
+work in progress. There is much more our research community can
+contribute to this area. Indeed, while defining what security means is
+a problem for security experts, finding security bugs in programs is a
+program analysis problem. In the second part of the talk, I will
+discuss what I believe are the most promising directions to reach the
+next levels, that is, how to extend whitebox fuzzing into forms of
+program verification based on dynamic software model checking.
+
+This is joint work with Michael Levin, David Molnar, Ella Bounimova,
+and many other contributors. Special thanks to Eric Douglas and Nick
+Bartmon (Windows), and to Tom Gallagher and Octavian Timofte (Office).

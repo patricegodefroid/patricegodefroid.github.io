@@ -1,0 +1,17 @@
+
+Automated Software Testing for the 21st Century
+
+During the last decade, research on automating software testing using
+program analysis has experienced quite a resurgence. The first part of
+this talk will present an overview of recent advances on automatic
+code-driven test generation. This approach to software testing
+combines techniques from static program analysis (symbolic execution),
+dynamic analysis (testing and runtime instrumentation), model checking
+(systematic state-space exploration), and automated constraint solving
+(SMT solvers). Notably, this approach has been implemented in the
+Microsoft tool SAGE, which was credited to have found roughly one
+third of all the security vulnerabilities discovered by file fuzzing
+during the development of Microsoft's Windows 7. The second part of
+the talk will discuss current trends in the software industry, and
+their impact on software testing.
+

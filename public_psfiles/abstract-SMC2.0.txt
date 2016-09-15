@@ -1,0 +1,30 @@
+
+Title: Software Model Checking 2.0
+
+Speaker: Patrice Godefroid
+
+Abstract:
+
+About 25 years ago, a new verification paradigm named "model checking"
+was introduced whereby checking whether a program satisfies a property
+is done by systematically exploring the program's state space. Since
+then, model checking has been much discussed in research circles and
+is viewed as very successful by most academic standards (high citation
+counts, 2008 Turing Award, etc.). Yet, model checking applied to
+software is still in its infancy. A first generation of model checkers
+for finite-state software designs, like SPIN and SMV, were engineered
+in the 90's. The last decade saw a second generation of software model
+checkers, like VeriSoft and SLAM, directly applicable to programming
+languages, such as C, and effective for specific application domains,
+namely communication protocols and device drivers, respectively.
+
+I will argue that a third generation of general-purpose software model
+checkers is currently emerging. Their foundation is systematic
+testing. They combine program analysis, testing, model checking and
+theorem proving. And their "killer app" is security, which makes the
+improbable corner cases typically found by model checking suddently
+relevant when they can be triggered by an attacker. This transition is
+happening at Microsoft where, for the first time, software model
+checking (albeit still in a weak form) is starting to be deployed on a
+larger scale for a wide range of data-driven applications. I will talk
+about these latest developments.

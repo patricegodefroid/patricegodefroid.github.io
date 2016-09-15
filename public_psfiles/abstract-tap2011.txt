@@ -1,0 +1,29 @@
+
+Tests from Proofs
+
+Patrice Godefroid
+
+Test generation has recently become the largest application of SMT
+solvers as measured by computational usage. At Microsoft, the Z3 SMT
+solver has solved more than a billion constraints over the last two
+years as a component of the whitebox fuzzer SAGE. Whitebox fuzzing
+extends dynamic test generation based on symbolic execution and
+constraint solving from unit testing to whole-application security
+testing. Since 2009, SAGE has been running non-stop on (average) 100+
+machines automatically ``fuzzing'' hundreds of applications in a
+dedicated lab owned by the Microsoft Windows security test team. In
+the process, SAGE found many new security vulnerabilities (missed by
+blackbox fuzzing and static program analysis) and was credited to have
+found roughly one third of all the bugs discovered by file fuzzing
+during the development of Microsoft's Windows 7, saving millions of
+dollars by avoiding expensive security patches to nearly a billion PCs.
+
+In the second part of the talk, I will present a new form of test
+generation, named higher-order test generation, where imprecision in
+symbolic execution is represented using uninterpreted functions in
+logic path constraints. I will explain why such functions need be
+universally quantified, hence requiring tests to be generated from
+validity proofs of first-order logic formulas, rather than from
+satisfiability proofs of quantifier-free first-order logic formulas as
+usual.
+

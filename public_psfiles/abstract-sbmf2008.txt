@@ -1,0 +1,19 @@
+
+Title: Automatic Code-Driven Test Generation
+
+Speaker: Patrice Godefroid
+
+Abstract:
+
+Given a program, say with a million lines of C code, wouldn't it be
+nice to have a tool that could automatically generate a set of input
+values that would exercize, say, even only 50% or 70% of the code in
+that program? Today, such a tool does not exist. However, significant
+progress towards that goal has recently been made. This new line of
+research combines program analysis, testing, model checking and
+theorem proving in a novel way. I will describe these latest
+developments, with a specific emphasis on current work under way at
+Microsoft. For instance, using a recent prototype tool for automatic
+code-driven test generation, we have already been able to detect tens
+of new expensive security-critical bugs in various Microsoft products.
+
