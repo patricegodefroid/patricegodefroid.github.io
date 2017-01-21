@@ -3,19 +3,21 @@ Patrice Godefroid is a Principal Researcher at Microsoft Research.  He
 received a B.S. degree in Electrical Engineering (Computer Science
 elective) and a Ph.D. degree in Computer Science from the University
 of Liege, Belgium, in 1989 and 1994 respectively.  From 1994 to 2006,
-he worked at Bell Laboratories (part of Lucent Technologies), where he
-was promoted to "distinguished member of technical staff" in 2001. His
-research interests include program (mostly software) specification,
-analysis, testing and verification.
+he worked at AT&T/Lucent Bell Laboratories, where he was promoted to
+"distinguished member of technical staff" in 2001. His research
+interests include program specification, analysis, testing and
+verification.
 
-Dr. Godefroid is probably best known for his pioneering work on
-partial-order reduction for model checking concurrent systems (his PhD
-thesis is published as LNCS volume 1032 by Springer), for his work on
-VeriSoft, the first software model checker for mainstream programming
-languages such as C and C++, for his work on 3-valued model checking
-with may/must abstractions for sound program verification and
+Patrice is probably best known for his early work on partial-order
+reduction for model checking concurrent systems (his PhD thesis is
+published as LNCS volume 1032 by Springer), for his work on VeriSoft,
+the first software model checker for mainstream programming languages
+such as C and C++, for his work on 3-valued model checking with
+may/must abstractions for sound program verification and
 falsification, and for his work on automatic test generation with
 DART. More recently, he co-developed SAGE, the first whitebox fuzzer
 for security testing, which was credited to have found roughly one
 third of all the security vulnerabilities discovered by file fuzzing
-during the development of Microsoft's Windows 7.
+during the development of Microsoft's Windows 7. In 2015, he
+co-founded Project Springfield, the first commercial cloud fuzzing
+service.
