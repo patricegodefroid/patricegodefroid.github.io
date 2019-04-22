@@ -5,5 +5,5 @@ elective) and a Ph.D. degree in Computer Science from the University
 of Liege, Belgium, in 1989 and 1994 respectively.  From 1994 to 2006,
 he worked at AT&T/Lucent Bell Laboratories, where he was promoted to
 "distinguished member of technical staff" in 2001. His research
-interests include program specification, analysis, testing and
-verification.
+interests include software model checking, program analysis, testing
+and verification, security, and software engineering.
