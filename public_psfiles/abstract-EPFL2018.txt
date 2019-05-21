@@ -1,0 +1,5 @@
+
+Dynamic Software Model Checking for Security
+
+Dynamic software model checking consists of adapting model checking into a form of systematic testing that is applicable to industrial-size software. Over the last two decades, dozens of tools following this paradigm have been developed for checking concurrent and data-driven software. In this talk, I will discuss dynamic software model checking, its strengths and limitations, and applications. In particular, I will highlight the impact of this approach at Microsoft, including how it inspired the whitebox fuzzer SAGE which found roughly one third of all the bugs discovered by file fuzzing during the development of Microsoft's Windows 7 (saving millions of dollars by avoiding expensive security patches to nearly a billion PCs), why security testing is today the largest application of SMT solvers as measured by computational usage, and how these techniques are powering "Microsoft Security Risk Detection", the first commercial cloud fuzzing service (Fuzzing-as-a-Service). I will conclude with a discussion of future research directions.
+

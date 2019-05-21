@@ -1,0 +1,5 @@
+
+Fuzzing @ Microsoft - A Research Perspective
+
+The Microsoft Security Development Lifecycle requires fuzzing (aka automatic security testing) at every untrusted interface of every product. To satisfy this requirement, a lot of expertise and tools have been developed inside Microsoft over the last 15 years. This presentation will discuss fuzzing at Microsoft, the unique whitebox fuzzing technology pioneered at Microsoft Research (based on dynamic symbolic execution and constraint solving), and "Microsoft Security Risk Detection" (formerly named Project Springfield), the first commercial cloud fuzzing service.
+
