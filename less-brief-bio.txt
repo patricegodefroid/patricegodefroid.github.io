@@ -1,12 +1,14 @@
 
-Patrice Godefroid is a Partner Researcher at Microsoft Research.  He
+Patrice Godefroid is a Distinguished Engineer at Lacework. He
 received a B.S. degree in Electrical Engineering (Computer Science
 elective) and a Ph.D. degree in Computer Science from the University
 of Liege, Belgium, in 1989 and 1994 respectively.  From 1994 to 2006,
 he worked at AT&T/Lucent Bell Laboratories, where he was promoted to
-"distinguished member of technical staff" in 2001. His research
-interests include software model checking, program analysis, testing
-and verification, security, and software engineering.
+"distinguished member of technical staff" in 2001. From 2006 to 2021,
+he worked at Microsoft Research, where he was promoted to Partner
+Researcher in 2012. His area of expertise includes software model 
+checking, program analysis, testing, verification, security, and 
+software engineering.
 
 Patrice is probably best known for his early work on partial-order
 reduction for model checking concurrent systems (his PhD thesis is
@@ -20,4 +22,8 @@ for security testing, which was credited to have found roughly one
 third of all the security vulnerabilities discovered by file fuzzing
 during the development of Microsoft's Windows 7. In 2015, he
 co-founded Project Springfield, the first commercial cloud fuzzing
-service.
+service. In 2017, he co-created RESTler, the first stateful 
+REST API fuzzing tool for automatically testing cloud services through
+their APIs and finding security and reliability bugs in these services.
+In 2022, he joined Lacework, a fast-growing cloud security start-up,
+with the mission to revolutionize software engineering for the cloud.
