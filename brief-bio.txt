@@ -1,11 +1,11 @@
 
-Patrice Godefroid is a Distinguished Engineer at Lacework. He
-received a B.S. degree in Electrical Engineering (Computer Science
-elective) and a Ph.D. degree in Computer Science from the University
-of Liege, Belgium, in 1989 and 1994 respectively.  From 1994 to 2006,
-he worked at AT&T/Lucent Bell Laboratories, where he was promoted to
-"distinguished member of technical staff" in 2001. From 2006 to 2021,
-he worked at Microsoft Research, where he was promoted to Partner
-Researcher in 2012. His area of expertise includes software model 
-checking, program analysis, testing, verification, security, and 
-software engineering.
+Patrice Godefroid received a B.S. degree in Electrical Engineering
+(Computer Science elective) and a Ph.D. degree in Computer Science
+from the University of Liege, Belgium, in 1989 and 1994 respectively.
+From 1994 to 2006, he worked at AT&T/Lucent Bell Laboratories, where 
+he was promoted to "distinguished member of technical staff" in 2001.
+From 2006 to 2021, he worked at Microsoft Research, where he was
+promoted to Partner Researcher in 2012. From 2022 to 2024, he was
+a Distinguished Engineer at Lacework. His area of expertise includes
+software model checking, program analysis, testing, verification,
+security, and software engineering.
