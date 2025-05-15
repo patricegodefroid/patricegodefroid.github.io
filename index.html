@@ -128,7 +128,7 @@ href="https://www.microsoft.com/en-us/research/blog/restler-finds-security-and-r
 release</a>).
 
 <p> In 2022, I joined Lacework to co-found its Code Security team. Our team
-    launched <a href="https://www.lacework.com/blog/introducing-a-new-approach-to-code-security">several new static-analysis products</a> 
+    launched <a href="https://dev.lacework.com/blog/introducing-a-new-approach-to-code-security">several new static-analysis products</a> 
     for Software Composition Analysis 
     (i.e., identify all third-party vulnerable packages in code repos) and for finding security-related bugs in first-party code.
     I also co-developed Code-Aware Agents (CAA), a new
@@ -137,8 +137,11 @@ release</a>).
     in production, and at cloud scale. CAA can detect whether vulnerable packages in
     cloud workloads are ever being executed or not. And it turns out that most open-source packages
     dragged into cloud workloads through dependencies are actually never executed anytime anywhere.
-    This is a <a href="https://www.lacework.com/blog/why-active-vulnerability-detection-is-a-game-changer-for-vulnerability-risk-management">game changer</a> 
+    This is a <a href="https://dev.lacework.com/blog/why-active-vulnerability-detection-is-a-game-changer-for-vulnerability-risk-management">game changer</a> 
     for anyone who has ever had to prioritize what vulnerable packages to fix next.
+    We also developed a novel <a href="https://dev.lacework.com/blog/introducing-lacework-smart-fix-the-smart-way-to-remediate-cloud-risks">
+    vulnerability remediation recommendation system</a> that computes the secure package version that 
+    is the closest to the current version in order to minimize risks of package-upgrade regressions.
     Overall, our combined static and dynamic analyses extend the Lacework platform to cover the entire
     development cycle of cloud services, from code to production. 
 
